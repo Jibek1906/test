@@ -1,0 +1,49 @@
+{
+  "name": "kg-loto",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "@lottiefiles/react-lottie-player": "^3.6.0",
+    "@tanstack/react-query": "^5.90.20",
+    "@tanstack/react-query-devtools": "^5.91.3",
+    "axios": "^1.13.4",
+    "canvas-confetti": "^1.9.4",
+    "clsx": "^2.1.1",
+    "critters": "^0.0.25",
+    "framer-motion": "^12.34.3",
+    "jsqr": "^1.4.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.563.0",
+    "next": "16.1.4",
+    "next-intl": "^4.8.3",
+    "qrcode.react": "^4.2.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-hook-form": "^7.71.1",
+    "react-leaflet": "^5.0.0",
+    "sharp": "^0.34.5",
+    "swiper": "^12.0.3",
+    "zod": "^4.3.6",
+    "zustand": "^5.0.10"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/leaflet": "^1.9.21",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.4",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
